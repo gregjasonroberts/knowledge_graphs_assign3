@@ -1,0 +1,30 @@
+## Trustworthy Online Resources for Fundamental Analysis
+
+- **Investopedia – Fundamental Analysis: Principles, Types, and How to Use It**: Comprehensive guide covering both quantitative and qualitative aspects of intrinsic valuation :contentReference[oaicite:0]{index=0}  
+- **Wikipedia – Fundamental analysis**: Objective overview of the methodology, including its focus on financial statements and macroeconomic factors :contentReference[oaicite:1]{index=1}  
+- **CFA Institute – Equity Valuation: Concepts and Basic Tools**: Authoritative reading on models for estimating a security’s intrinsic value, including discounted cash-flow and multiples approaches :contentReference[oaicite:2]{index=2}  
+- **Morningstar – Equity Research Methodology**: Detailed PDF outlining Morningstar’s process for assessing economic moats, fair value estimates, and uncertainty :contentReference[oaicite:3]{index=3}  
+- **U.S. Securities and Exchange Commission – EDGAR Full Text Search**: Official portal to retrieve primary filings (10-K, 10-Q, 8-K) that form the backbone of financial statement analysis :contentReference[oaicite:4]{index=4}  
+- **Yahoo Finance**: Widely used for quick access to income statements, balance sheets, and cash flow data :contentReference[oaicite:5]{index=5}  
+
+## What Is Fundamental Analysis?
+
+Fundamental analysis is a technique for measuring a security’s intrinsic value by examining a company’s financial statements—such as revenue, assets, and liabilities—alongside broader economic indicators like GDP and interest rates :contentReference[oaicite:6]{index=6}.
+
+## Benefits of Fundamental Analysis
+
+- Focuses on underlying value drivers (e.g., earnings growth, cash flow generation, competitive advantages), enabling identification of undervalued or overvalued securities :contentReference[oaicite:7]{index=7}  
+- Provides a long-term investment framework less influenced by short-term market noise
+
+## Limitations of Fundamental Analysis
+
+- Relies on estimates and intrinsic value forecasts that can vary significantly across analysts :contentReference[oaicite:8]{index=8}  
+- Evaluating qualitative factors (e.g., management quality, brand strength) is complex and subjective :contentReference[oaicite:9]{index=9}  
+
+## Applying Fundamental Analysis in Your Term Project
+
+In your term project—building a consumer discretionary knowledge graph—you could:
+
+1. **Create Company nodes linked to Financial Metric nodes** (e.g., P/E ratio, debt-to-equity ratio) extracted from EDGAR filings :contentReference[oaicite:10]{index=10}  
+2. **Enable queries to identify companies trading below intrinsic value** by feeding these metrics into a RAG-based recommendation engine  
+3. **Map how changes in financial fundamentals propagate** across peer group and industry relationships, enriching your graph’s predictive insights :contentReference[oaicite:11]{index=11}  
