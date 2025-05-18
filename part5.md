@@ -43,13 +43,6 @@ In our consumer discretionary knowledge graph project, we could:
 [^3]: Optionistics. *Stock Quotes & Volatility*. https://www.optionistics.com/volatility/  
 [^4]: University of Michigan. *Consumer Sentiment Index*. https://www.sca.isr.umich.edu/  
 [^5]: KDnuggets. *Alternative Data, Text Analytics, and Sentiment Analysis in Trading and Investing*. https://www.kdnuggets.com/  
-[^6]: Corporate Finance Institute. *Market Sentiment*. https://courses.corporatefinanceinstitute.com/  
 [^7]: KDnuggets. *Provalis: Sentiment analysis dictionaries for financial news*. https://www.kdnuggets.com/  
 [^8]: Wikipedia. *Sentiment analysis*. https://en.wikipedia.org/wiki/Sentiment_analysis  
 [^9]: Investopedia. *Market Sentiment Indicators*. https://www.investopedia.com/terms/m/marketsentiment.asp  
-[^10]: Investopedia. *Predictive Power of Sentiment Analysis*. https://www.investopedia.com/terms/p/predictive-analysis.asp  
-[^11]: Investopedia. *Limitations of Sentiment Analysis*. https://www.investopedia.com/articles/investing/102215/where-sentiment-analysis-fails.asp  
-[^12]: Investopedia. *Challenges in Sentiment Analysis*. https://www.investopedia.com/articles/financial-theory/11/sentiment-analysis.asp  
-[^13]: KDnuggets. *Maintaining NLP Models for Financial Text*. https://www.kdnuggets.com/maintaining-nlp-models.html  
-[^14]: Course term project guidelines (consumer discretionary knowledge graph).  
-[^15]: Course term project guidelines (consumer discretionary knowledge graph).  
