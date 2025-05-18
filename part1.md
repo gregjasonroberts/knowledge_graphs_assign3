@@ -15,14 +15,13 @@ Structured querying in knowledge graphs relies heavily on SPARQL, the W3C-standa
 
 - **Property-Graph & Hypergraph Databases**  
   - **Neo4j (Property-Graph Model)** attaches arbitrary key–value properties to nodes and relationships and exposes them via the Cypher DSL (`MATCH`, `WHERE`, `RETURN`), abstracting explicit join syntax and emphasizing pattern matching.[^3]  
-  - **Hypergraph Databases** generalize edges to hyperedges that can connect any number of vertices—often represented as nested hypernodes—making it easier to model higher-order relations without decomposing them into multiple binary triples.[^4]
+  - **Hypergraph Databases** generalize edges to hyperedges that can connect any number of vertices—often represented as nested hypernodes—making it easier to model higher-order relations without decomposing them into multiple binary triples.
 
 ---
 
 [^1]: W3C. (2013). SPARQL 1.1 Query Language. https://www.w3.org/TR/sparql11-query/   
-[^2]: Kim, H.-J., & Park, J.-S. (2020). Evaluating Performance of Vertical Partitioned RDF Stores. *Data & Knowledge Engineering*.  
-[^3]: https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/ 
-[^4]: Bretto, A. (2013). *Hypergraph Theory: An Introduction*. Springer.  
+[^2]: Ben Mahria, B., Chaker, I. & Zahi, A. An empirical study on the evaluation of the RDF storage systems. J Big Data 8, 100 (2021). https://doi.org/10.1186/s40537-021-00486-y, https://rdcu.be/emy54  
+[^3]: Stegeman, John. 2024. “What Is a Knowledge Graph?” Neo4j.com Blog. https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/ 
 
 
 
