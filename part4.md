@@ -38,8 +38,6 @@ In our consumer discretionary knowledge graph project, we could:
 [^1]: Wikipedia. *Technical analysis*. https://en.wikipedia.org/wiki/Technical_analysis  \
 [^4]: TradingView. *Scripts and Indicators*. https://www.tradingview.com/scripts/  
 [^5]: Investopedia. *Technical Analysis Definition*. https://www.investopedia.com/terms/t/technicalanalysis.asp  
-[^6]: Investopedia. *Short-Term Trading Opportunities*. https://www.investopedia.com/articles/trading/08/technical-analysis.asp  \
 [^8]: StockCharts. *Technical Indicators Overview*. https://school.stockcharts.com/doku.php?id=technical_indicators  \ 
 [^10]: Investopedia. *Whipsaw Definition*. https://www.investopedia.com/terms/w/whipsaw.asp  
-[^11]: Investopedia. *Subjectivity in Technical Analysis*. https://www.investopedia.com/articles/trading/09/technical-analysis-biases.asp  
 [^12]: Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. Journal of Finance\
