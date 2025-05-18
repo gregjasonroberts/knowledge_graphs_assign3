@@ -1,6 +1,6 @@
+# Part 3:   Identify and cite trustworthy online resources for fundamental analysis of investments. Explain fundamental analysis in a few words. What are the benefits and limitations of fundamental analysis. How could fundamental analysis be utilized in the term project for this course?
 ## Trustworthy Online Resources for Fundamental Analysis
 
-- **Investopedia – Fundamental Analysis: Principles, Types, and How to Use It**: Comprehensive guide covering both quantitative and qualitative aspects of intrinsic valuation :contentReference[oaicite:0]{index=0}  
 - **Wikipedia – Fundamental analysis**: Objective overview of the methodology, including its focus on financial statements and macroeconomic factors :contentReference[oaicite:1]{index=1}  
 - **CFA Institute – Equity Valuation: Concepts and Basic Tools**: Authoritative reading on models for estimating a security’s intrinsic value, including discounted cash-flow and multiples approaches :contentReference[oaicite:2]{index=2}  
 - **Morningstar – Equity Research Methodology**: Detailed PDF outlining Morningstar’s process for assessing economic moats, fair value estimates, and uncertainty :contentReference[oaicite:3]{index=3}  
@@ -23,8 +23,9 @@ Fundamental analysis is a technique for measuring a security’s intrinsic value
 
 ## Applying Fundamental Analysis in Your Term Project
 
-In your term project—building a consumer discretionary knowledge graph—you could:
+In our term project—building a consumer discretionary knowledge graph—we could:
 
 1. **Create Company nodes linked to Financial Metric nodes** (e.g., P/E ratio, debt-to-equity ratio) extracted from EDGAR filings :contentReference[oaicite:10]{index=10}  
 2. **Enable queries to identify companies trading below intrinsic value** by feeding these metrics into a RAG-based recommendation engine  
 3. **Map how changes in financial fundamentals propagate** across peer group and industry relationships, enriching your graph’s predictive insights :contentReference[oaicite:11]{index=11}  
+
