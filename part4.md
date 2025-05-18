@@ -35,18 +35,11 @@ In our consumer discretionary knowledge graph project, we could:
 
 ---
 
-[^1]: Wikipedia. *Technical analysis*. https://en.wikipedia.org/wiki/Technical_analysis  
-[^2]: CMT Association. *Chartered Market Technician Association*. https://cmtassociation.org/  
-[^3]: StockCharts. *ChartSchool Technical Analysis Overview*. https://school.stockcharts.com/doku.php?id=chart_school:overview  
+[^1]: Wikipedia. *Technical analysis*. https://en.wikipedia.org/wiki/Technical_analysis  \
 [^4]: TradingView. *Scripts and Indicators*. https://www.tradingview.com/scripts/  
 [^5]: Investopedia. *Technical Analysis Definition*. https://www.investopedia.com/terms/t/technicalanalysis.asp  
-[^6]: Investopedia. *Short-Term Trading Opportunities*. https://www.investopedia.com/articles/trading/08/technical-analysis.asp  
-[^7]: Investopedia. *Asset Class Flexibility in Technical Analysis*. https://www.investopedia.com/terms/t/technicalanalysis.asp  
-[^8]: StockCharts. *Technical Indicators Overview*. https://school.stockcharts.com/doku.php?id=technical_indicators  
-[^9]: Investopedia. *Limitations of Technical Analysis*. https://www.investopedia.com/articles/technical/05/limitations-technical.asp  
+[^6]: Investopedia. *Short-Term Trading Opportunities*. https://www.investopedia.com/articles/trading/08/technical-analysis.asp  \
+[^8]: StockCharts. *Technical Indicators Overview*. https://school.stockcharts.com/doku.php?id=technical_indicators  \ 
 [^10]: Investopedia. *Whipsaw Definition*. https://www.investopedia.com/terms/w/whipsaw.asp  
 [^11]: Investopedia. *Subjectivity in Technical Analysis*. https://www.investopedia.com/articles/trading/09/technical-analysis-biases.asp  
-[^12]: Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. Journal of Finance.  
-[^13]: Course term project guidelines. Mapping technical indicators in the consumer discretionary knowledge graph.  
-[^14]: Course term project guidelines. Query patterns for signal detection in knowledge graphs.  
- for specific patterns (e.g., moving average crossovers) to flag potential trade signals and visualize momentum across peer groups :contentReference[oaicite:14]{index=14}.  
+[^12]: Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. Journal of Finance\
