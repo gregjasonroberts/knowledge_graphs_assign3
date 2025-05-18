@@ -42,7 +42,7 @@ In our consumer discretionary knowledge graph project, we could:
 [^2]: AAII. *Investor Sentiment Survey*. https://www.aaii.com/sentimentsurvey/  
 [^3]: Optionistics. *Stock Quotes & Volatility*. https://www.optionistics.com/volatility/  
 [^4]: University of Michigan. *Consumer Sentiment Index*. https://www.sca.isr.umich.edu/  
-[^5]: KDnuggets. *Alternative Data, Text Analytics, and Sentiment Analysis in Trading and Investing*. https://www.kdnuggets.com/  
-[^7]: KDnuggets. *Provalis: Sentiment analysis dictionaries for financial news*. https://www.kdnuggets.com/  
+[^5]: KDnuggets. *How to collect data for customer sentiment analysis* https://www.kdnuggets.com/2022/12/collect-data-customer-sentiment-analysis.html 
+[^7]: KDnuggets. *Provalis: Sentiment analysis dictionaries for financial news*. https://www.kdnuggets.com/2012/05/provalis-sentiment-analysis-financial-political-general-dictionary.html 
 [^8]: Wikipedia. *Sentiment analysis*. https://en.wikipedia.org/wiki/Sentiment_analysis  
 [^9]: Investopedia. *Market Sentiment Indicators*. https://www.investopedia.com/terms/m/marketsentiment.asp  
