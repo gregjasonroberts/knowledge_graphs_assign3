@@ -1,4 +1,4 @@
-Part 1:
+Part 1:  Provide a summary of the assigned readings from the Knowledge Graphs textbook for week 6. Identify three or more key ideas from these readings, citing relevant online resources.
 
 Structured querying in knowledge graphs relies heavily on SPARQL, the W3C‑standardized RDF query language designed to express graph patterns as sets of triple templates. Variables prefixed with “?” bind to subjects, predicates, or objects, and shared variables across multiple patterns naturally result in join operations. SPARQL 1.1 extends basic pattern matching with SQL‑style features such as aggregates, subqueries, optional patterns, and negation, enabling complex queries (e.g., grouping, ordering) that go beyond simple triple matching. Its formal semantics and bottom‑up evaluation model allow systems to leverage decades of relational query optimization research, even though RDF data often resists straightforward tabular representation :contentReference[oaicite:0]{index=0}.
 
