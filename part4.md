@@ -37,4 +37,4 @@ In our consumer discretionary knowledge graph project, we could:
 [^2]: TradingView. *Scripts and Indicators*. https://www.tradingview.com/scripts/  
 [^3]: Investopedia. *Technical Analysis Definition*. https://www.investopedia.com/terms/t/technicalanalysis.asp  
 [^4]: Investopedia. *Whipsaw Definition*. https://www.investopedia.com/terms/w/whipsaw.asp  
-[^5]: Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. Journal of Finance\
+[^5]: Fama, E. F. (1970). *Efficient Capital Markets: A Review of Theory and Empirical Work*. Journal of Finance, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1970.tb00518.x?msockid=3cca4a249d7f6eb43c355f4f9c0d6f11
