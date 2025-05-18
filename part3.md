@@ -6,23 +6,22 @@ Fundamental analysis is a technique for measuring a security’s intrinsic value
 
 - **Wikipedia – Fundamental analysis**: Objective overview of the methodology, including its focus on financial statements and macroeconomic factors.[^1]  
 - **CFA Institute – Equity Valuation: Concepts and Basic Tools**: Authoritative reading on models for estimating a security’s intrinsic value, including discounted cash-flow and multiples approaches.[^2]  
-- **Morningstar – Equity Research Methodology**: Detailed PDF outlining Morningstar’s process for assessing economic moats, fair value estimates, and uncertainty.[^3]  
 - **U.S. Securities and Exchange Commission – EDGAR Full Text Search**: Official portal to retrieve primary filings (10-K, 10-Q, 8-K) that form the backbone of financial statement analysis.[^4]  
 - **Yahoo Finance**: Widely used for quick access to income statements, balance sheets, and cash flow data.[^5]  
 
 ## What Is Fundamental Analysis?
 
-Fundamental analysis is a technique for measuring a security’s intrinsic value by examining a company’s financial statements—such as revenue, assets, and liabilities—alongside broader economic indicators like GDP and interest rates.[^6]
+Fundamental analysis is a technique for measuring a security’s intrinsic value by examining a company’s financial statements—such as revenue, assets, and liabilities—alongside broader economic indicators like GDP and interest rates.
 
 ## Benefits of Fundamental Analysis
 
-- Focuses on underlying value drivers (e.g., earnings growth, cash flow generation, competitive advantages), enabling identification of undervalued or overvalued securities.[^7]  
+- Focuses on underlying value drivers (e.g., earnings growth, cash flow generation, competitive advantages), enabling identification of undervalued or overvalued securities.
 - Provides a long-term investment framework less influenced by short-term market noise.
 
 ## Limitations of Fundamental Analysis
 
 - Relies on estimates and intrinsic value forecasts that can vary significantly across analysts.[^8]  
-- Evaluating qualitative factors (e.g., management quality, brand strength) is complex and subjective.[^9]  
+- Evaluating qualitative factors (e.g., management quality, brand strength) is complex and subjective.[^8]  
 
 ## Applying Fundamental Analysis in Your Term Project
 
@@ -36,10 +35,6 @@ In our term project—building a consumer discretionary knowledge graph—we cou
 
 [^1]: Wikipedia. *Fundamental analysis*. https://en.wikipedia.org/wiki/Fundamental_analysis  
 [^2]: CFA Institute. *Equity Valuation: Concepts and Basic Tools*. https://www.cfainstitute.org/en/research/foundation/2015/equity-valuation-concepts-and-basic-tools  
-[^3]: Morningstar. *Equity Research Methodology*. https://www.morningstar.com/lp/equity-research-methodology (PDF)  
 [^4]: U.S. Securities and Exchange Commission. *EDGAR Full Text Search*. https://www.sec.gov/edgar/search/  
 [^5]: Yahoo Finance. https://finance.yahoo.com/  
-[^7]: CFA Institute. *Equity Valuation: Concepts and Basic Tools*. https://www.cfainstitute.org/  
 [^8]: Investopedia. *Limitations of Fundamental Analysis*. https://www.investopedia.com/articles/investing/102215/where-fundamental-analysis-fails.asp  
-[^9]: Investopedia. *Subjectivity in Qualitative Analysis*. https://www.investopedia.com/articles/investing/102215/qualitative-analysis.asp  
-[^10]: U.S. Securities and Exchange Commission. *EDGAR Full Text Search*. https://www.sec.gov/edgar/search/  
