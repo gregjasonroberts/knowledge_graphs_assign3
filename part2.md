@@ -5,8 +5,9 @@ Chapters 8 and 9 delve into two foundational challenges in knowledge graph const
 
 ---
 
-## Key Point Summary
-Chapters 8 and 9 highlight the critical role of instance matching in consolidating disparate information about the same entity—despite challenges from syntactic variations and missing context—by employing scalable blocking schemes such as block purging, sorted neighborhood, and canopies to reduce the candidate space from quadratic to near-linear complexity. Once candidate pairs are identified, two-stage scoring pipelines leverage probabilistic models like Fellegi–Sunter or supervised machine-learning classifiers to balance precision and recall effectively. Furthermore, statistical relational learning frameworks such as Markov Logic Networks (MLNs) and Probabilistic Soft Logic (PSL) integrate first-order logic with probability to capture relational dependencies, enabling joint inference and robust handling of noisy, incomplete knowledge graphs[^3].
+## Updated Summary of Key Points
+
+Successful knowledge‐graph construction depends on robust instance matching to merge all mentions of the same real‐world entity—despite syntactic variations and missing context—by first using scalable blocking techniques (block purging, sorted neighborhood, canopies) to reduce the O(n²) candidate space to near‐linear size. Once candidates are selected, two‐stage scoring pipelines (probabilistic Fellegi–Sunter or supervised ML classifiers with a “possible matches” tier) balance precision and recall. Finally, statistical relational learning frameworks such as Markov Logic Networks (MLNs) and Probabilistic Soft Logic (PSL) integrate first‐order logic with probability to capture rich relational dependencies and perform joint inference over noisy, incomplete knowledge graphs.  
 
 ---
 
