@@ -33,6 +33,6 @@ In our term project—building a consumer discretionary knowledge graph—we cou
 
 
 [^1]: Wikipedia. *Fundamental analysis*. https://en.wikipedia.org/wiki/Fundamental_analysis  
-[^2]: **Fundamental analysis: What it is and how to use it in investing** https://finance.yahoo.com/news/fundamental-analysis-investing-120000441.html
+[^2]: Fundamental analysis: What it is and how to use it in investing https://finance.yahoo.com/news/fundamental-analysis-investing-120000441.html
 [^4]: U.S. Securities and Exchange Commission. *EDGAR Full Text Search*. https://www.sec.gov/edgar/search/  
 [^8]: Investopedia. *Limitations of Fundamental Analysis*. https://www.investopedia.com/articles/investing/102215/where-fundamental-analysis-fails.asp  
